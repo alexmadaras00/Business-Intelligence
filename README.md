@@ -11,5 +11,7 @@ For this project we completed the following steps:
 
 3. Prepare the data and upload it to the DBMS (with PostgreSQL)
 
-4.Visualize the data
+4.Visualize the data.
+
+
 
