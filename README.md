@@ -3,7 +3,7 @@ The project has been developed as part of the Data Science course at University 
 It presents the analysis and visualizations of Classic Models Inc.'s business performance using the Balanced Scorecard (BSC) approach to provide strategic recommendations for its management. 
 The data is stored on a PostgreSQL DBMS server.
 
-For this project we had to complete the following steps:
+For this project we completed the following steps:
 
 1. Design a Star (Snowflake) Schema
 
