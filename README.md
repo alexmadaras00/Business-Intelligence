@@ -45,7 +45,9 @@ The following technologies were used in this project:
 - Google Colab
 
 - Microsoft Excel
+
 ##Installation
+
 To install this project, follow the steps below:
 
 - Clone the repository to your local machine.
