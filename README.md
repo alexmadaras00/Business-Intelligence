@@ -46,7 +46,7 @@ The following technologies were used in this project:
 
 - Microsoft Excel
 
-##Installation
+## Installation
 
 To install this project, follow the steps below:
 
